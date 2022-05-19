@@ -1,0 +1,3 @@
+﻿  лаб 5  2 сем.cpp
+D:\Users\Матвей\Документы\Visual Studio 2019\Progects\лаб 5  2 сем\лаб 5  2 сем\лаб 5  2 сем.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  лаб 5  2 сем.vcxproj -> D:\Users\Матвей\Документы\Visual Studio 2019\Progects\лаб 5  2 сем\Debug\лаб 5  2 сем.exe
